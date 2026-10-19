@@ -25,6 +25,22 @@
 </p>
 
 ## 使った文法・技術
+@State
+@Binding
+VStack
+HStack
+Button
+NavigationLink
+.sheet
+.alert
+Image
+var 
+if/else
+if let
+nil
+struct
+Array
+Data
 
 （例：`@State`、`List`、`ForEach`、構造体、配列の `append` と `remove`）
 
