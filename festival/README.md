@@ -15,10 +15,14 @@
 
 ## 画面
 
-![アプリの画面](meeti01.png)
-![アプリの画面](meeti02.png)
-![アプリの画面](meeti03.png)
-![アプリの画面](meeti04.png)
+<h2>アプリ画面</h2>
+
+<p align="center">
+  <img src="meeti01.png" width="180">
+  <img src="meeti02.png" width="180">
+  <img src="meeti03.png" width="180">
+  <img src="meeti04.png" width="180">
+</p>
 
 ## 使った文法・技術
 
